@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\LinearDataStructures\09. SequenceMemberFinder\bin\Debug\_09.SequenceMemberFinder.dll
+C:\Users\Admin\Desktop\LinearDataStructures\09. SequenceMemberFinder\bin\Debug\_09.SequenceMemberFinder.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\09. SequenceMemberFinder\obj\Debug\_09.SequenceMemberFinder.dll
+C:\Users\Admin\Desktop\LinearDataStructures\09. SequenceMemberFinder\obj\Debug\_09.SequenceMemberFinder.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\09. SequenceMemberFinder\obj\Debug\09. SequenceMemberFinder.csprojResolveAssemblyReference.cache

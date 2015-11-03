@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F07A0FB-4375-4924-85CC-43810B36C1D9}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjectsStartup</RootNamespace>
+    <AssemblyName>ProjectsStartup</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Startup.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\01.SumAndAverage\01.SumAndAverage.csproj">
+      <Project>{909b3ab9-25a1-4cd3-92ef-5dfe6bb17fb9}</Project>
+      <Name>01.SumAndAverage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\02.StackReverse\02.StackReverse.csproj">
+      <Project>{fd2bfbc9-2fb9-4646-a70a-2c9e64bdf5a1}</Project>
+      <Name>02.StackReverse</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\03.СортЛист\03.SortList.csproj">
+      <Project>{5ecb4499-bcde-49d9-8688-e1265e867ca7}</Project>
+      <Name>03.SortList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\04.LongestSubsequence\04.LongestSubsequence.csproj">
+      <Project>{1b48e925-5554-4e11-adcf-09ecfdd284ec}</Project>
+      <Name>04.LongestSubsequence</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\05.NegativeRemoval\05.NegativeRemoval.csproj">
+      <Project>{e3ecc266-10db-449f-9499-6843d7eb76f2}</Project>
+      <Name>05.NegativeRemoval</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\06. OddOccurenceRemoval\06. OddOccurenceRemoval.csproj">
+      <Project>{17f38df4-78c0-430a-ad26-5242497863eb}</Project>
+      <Name>06. OddOccurenceRemoval</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\08. Majorant\08. Majorant.csproj">
+      <Project>{e2219959-73de-4087-a0bb-1d32a7257bfd}</Project>
+      <Name>08. Majorant</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\09. SequenceMemberFinder\09. SequenceMemberFinder.csproj">
+      <Project>{70e32daa-79c7-4e0f-9f48-4e4c2eea5bf6}</Project>
+      <Name>09. SequenceMemberFinder</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\10. ShortestSequenceOfOperations\10. ShortestSequenceOfOperations.csproj">
+      <Project>{236ef5f7-5400-4cd4-bccb-d5639e976cb0}</Project>
+      <Name>10. ShortestSequenceOfOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\11. LinkedList\11. LinkedList.csproj">
+      <Project>{dce6848c-0ae0-44da-af7a-df991610e7bf}</Project>
+      <Name>11. LinkedList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\12. ADTStack\12. ADTStack.csproj">
+      <Project>{97e52bba-b277-4e85-b323-71c0190948e4}</Project>
+      <Name>12. ADTStack</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\13. ADTQueue\13. ADTQueue.csproj">
+      <Project>{fb6ed651-3a3f-49e7-9116-613320b66785}</Project>
+      <Name>13. ADTQueue</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Inputs\Inputs.csproj">
+      <Project>{102577fc-0afa-4e73-9e47-7d6cc52f2968}</Project>
+      <Name>Inputs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OccurenceCount\07. OccurenceCounter.csproj">
+      <Project>{40fc66b6-9ae1-465d-9261-4023eb543025}</Project>
+      <Name>07. OccurenceCounter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

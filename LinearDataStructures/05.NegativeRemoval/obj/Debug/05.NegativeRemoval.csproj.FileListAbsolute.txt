@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\LinearDataStructures\05.NegativeRemoval\bin\Debug\05.NegativeRemoval.dll
+C:\Users\Admin\Desktop\LinearDataStructures\05.NegativeRemoval\bin\Debug\05.NegativeRemoval.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\05.NegativeRemoval\bin\Debug\Inputs.dll
+C:\Users\Admin\Desktop\LinearDataStructures\05.NegativeRemoval\bin\Debug\Inputs.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\05.NegativeRemoval\obj\Debug\05.NegativeRemoval.dll
+C:\Users\Admin\Desktop\LinearDataStructures\05.NegativeRemoval\obj\Debug\05.NegativeRemoval.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\05.NegativeRemoval\obj\Debug\05.NegativeRemoval.csprojResolveAssemblyReference.cache

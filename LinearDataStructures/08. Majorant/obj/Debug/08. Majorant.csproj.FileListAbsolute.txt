@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\LinearDataStructures\08. Majorant\obj\Debug\08. Majorant.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\08. Majorant\bin\Debug\_08.Majorant.dll
+C:\Users\Admin\Desktop\LinearDataStructures\08. Majorant\bin\Debug\_08.Majorant.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\08. Majorant\bin\Debug\Inputs.dll
+C:\Users\Admin\Desktop\LinearDataStructures\08. Majorant\bin\Debug\Inputs.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\08. Majorant\obj\Debug\_08.Majorant.dll
+C:\Users\Admin\Desktop\LinearDataStructures\08. Majorant\obj\Debug\_08.Majorant.pdb

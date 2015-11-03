@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\LinearDataStructures\13. ADTQueue\bin\Debug\_13.ADTQueue.dll
+C:\Users\Admin\Desktop\LinearDataStructures\13. ADTQueue\bin\Debug\_13.ADTQueue.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\13. ADTQueue\obj\Debug\13. ADTQueue.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\13. ADTQueue\obj\Debug\_13.ADTQueue.dll
+C:\Users\Admin\Desktop\LinearDataStructures\13. ADTQueue\obj\Debug\_13.ADTQueue.pdb

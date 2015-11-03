@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\LinearDataStructures\11. LinkedList\bin\Debug\_11.LinkedList.dll
+C:\Users\Admin\Desktop\LinearDataStructures\11. LinkedList\bin\Debug\_11.LinkedList.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\11. LinkedList\obj\Debug\11. LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\11. LinkedList\obj\Debug\_11.LinkedList.dll
+C:\Users\Admin\Desktop\LinearDataStructures\11. LinkedList\obj\Debug\_11.LinkedList.pdb

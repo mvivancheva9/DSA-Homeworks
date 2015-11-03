@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\LinearDataStructures\02.StackReverse\bin\Debug\02.StackReverse.dll
+C:\Users\Admin\Desktop\LinearDataStructures\02.StackReverse\bin\Debug\02.StackReverse.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\02.StackReverse\bin\Debug\Inputs.dll
+C:\Users\Admin\Desktop\LinearDataStructures\02.StackReverse\bin\Debug\Inputs.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\02.StackReverse\obj\Debug\02.StackReverse.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\02.StackReverse\obj\Debug\02.StackReverse.dll
+C:\Users\Admin\Desktop\LinearDataStructures\02.StackReverse\obj\Debug\02.StackReverse.pdb

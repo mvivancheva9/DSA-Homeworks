@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\LinearDataStructures\12. ADTStack\bin\Debug\_12.ADTStack.dll
+C:\Users\Admin\Desktop\LinearDataStructures\12. ADTStack\bin\Debug\_12.ADTStack.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\12. ADTStack\obj\Debug\12. ADTStack.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\12. ADTStack\obj\Debug\_12.ADTStack.dll
+C:\Users\Admin\Desktop\LinearDataStructures\12. ADTStack\obj\Debug\_12.ADTStack.pdb

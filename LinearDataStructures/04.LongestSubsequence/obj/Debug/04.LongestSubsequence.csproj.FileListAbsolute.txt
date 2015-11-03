@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\LinearDataStructures\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.dll
+C:\Users\Admin\Desktop\LinearDataStructures\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\04.LongestSubsequence\bin\Debug\Inputs.dll
+C:\Users\Admin\Desktop\LinearDataStructures\04.LongestSubsequence\bin\Debug\Inputs.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.dll
+C:\Users\Admin\Desktop\LinearDataStructures\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.pdb

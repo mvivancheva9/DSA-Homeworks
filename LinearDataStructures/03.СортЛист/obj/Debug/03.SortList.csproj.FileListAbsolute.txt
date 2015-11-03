@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\LinearDataStructures\03.СортЛист\bin\Debug\03.СортЛист.dll
+C:\Users\Admin\Desktop\LinearDataStructures\03.СортЛист\bin\Debug\03.СортЛист.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\03.СортЛист\bin\Debug\Inputs.dll
+C:\Users\Admin\Desktop\LinearDataStructures\03.СортЛист\bin\Debug\Inputs.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\03.СортЛист\obj\Debug\03.SortList.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\03.СортЛист\obj\Debug\03.СортЛист.dll
+C:\Users\Admin\Desktop\LinearDataStructures\03.СортЛист\obj\Debug\03.СортЛист.pdb

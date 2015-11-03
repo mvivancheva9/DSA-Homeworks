@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\LinearDataStructures\Inputs\bin\Debug\Inputs.dll
+C:\Users\Admin\Desktop\LinearDataStructures\Inputs\bin\Debug\Inputs.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\Inputs\obj\Debug\Inputs.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\Inputs\obj\Debug\Inputs.dll
+C:\Users\Admin\Desktop\LinearDataStructures\Inputs\obj\Debug\Inputs.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\LinearDataStructures\10. ShortestSequenceOfOperations\bin\Debug\_10.ShortestSequenceOfOperations.dll
+C:\Users\Admin\Desktop\LinearDataStructures\10. ShortestSequenceOfOperations\bin\Debug\_10.ShortestSequenceOfOperations.pdb
+C:\Users\Admin\Desktop\LinearDataStructures\10. ShortestSequenceOfOperations\obj\Debug\10. ShortestSequenceOfOperations.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LinearDataStructures\10. ShortestSequenceOfOperations\obj\Debug\_10.ShortestSequenceOfOperations.dll
+C:\Users\Admin\Desktop\LinearDataStructures\10. ShortestSequenceOfOperations\obj\Debug\_10.ShortestSequenceOfOperations.pdb
